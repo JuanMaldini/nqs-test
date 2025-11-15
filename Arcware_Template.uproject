@@ -90,6 +90,10 @@
 		{
 			"Name": "PixelStreaming",
 			"Enabled": true
+		},
+		{
+			"Name": "CinematicAssemblyTools",
+			"Enabled": true
 		}
 	]
 }
